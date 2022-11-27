@@ -2,7 +2,7 @@
 This project consists of various C code implementation of different applications and a report of system enginnering process in software enginnering.
 
 
-[System Enginnering Process in Software](https://github.com/BrianKoDev/Circular-Buffer-Memory-Alocation/blob/main/Systems&#32;Enginnering&#32;in&#32;Software Enginnering.pdf)
+[System Enginnering Process in Software](https://github.com/BrianKoDev/Circular-Buffer-Memory-Allocation/blob/main/Systems%20Enginnering%20in%20Software%20Enginnering.pdf)
 
 ## Task 1
 The program implements a circular buffer in C.
