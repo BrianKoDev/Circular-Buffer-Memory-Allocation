@@ -2,7 +2,7 @@
 This project consists of various C code implementation of different applications and a report of system enginnering process in software enginnering.
 
 
-[System Enginnering Process in Software](https://github.com/BrianKoDev/Electronic-Speed-Controller-for-BLDC/blob/main/Dissertation.pdf)
+[System Enginnering Process in Software](https://github.com/BrianKoDev/Circular-Buffer-Memory-Alocation/blob/main/Systems Enginnering in Software Enginnering.pdf)
 
 ## Task 1
 The program implements a circular buffer in C.
